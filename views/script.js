@@ -145,7 +145,7 @@ $("#add").click(function(e) {
 });
 
 $("#back").click(function(e) {
-  window.location.href = "buyItem.html";
+  window.location.href = "buy";
 });
 
 $("#btn1").click(function(e) {
